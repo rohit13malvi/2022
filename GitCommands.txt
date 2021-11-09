@@ -7,7 +7,7 @@ golobal -all repositories of the current user
 local -the current repository
 
 git config --global user.name "Rohit Malvi"
-git config --global user.email rmalvi1995new1@gmail.com
+git config --global user.email 
 git config --global core.editor "code --wait"
 $ git config --global -e
 
@@ -19,8 +19,6 @@ phython
 
 for new branch 
 
-communication skills
-english 
-aptitudes reasioning crt
+crt
 
 done
